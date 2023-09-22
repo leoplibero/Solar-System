@@ -12,4 +12,4 @@ Fácil de entender e usar
 
 Conclusão:
 
-Este projeto é uma maneira divertida e informativa de aprender sobre o sistema solar. É um bom projeto para iniciantes em HTML e CSS, e também pode ser usado como um projeto de demonstração para mostrar suas habilidades.
+É um bom projeto para iniciantes em HTML e CSS, e também pode ser usado como um projeto de demonstração para mostrar suas habilidades.
